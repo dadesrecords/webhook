@@ -18,4 +18,4 @@ def index():
     return '{"success":"true"}'
 
 if __name__ == "__main__":   
-    app.run(host='23.88.108.131', port=80)
+    app.run(host='23.88.108.131', port=5000)
